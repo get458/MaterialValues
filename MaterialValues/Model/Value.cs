@@ -19,6 +19,7 @@ namespace MaterialValues.Model
         public int SerialNumber { get; set; }
         public string Info { get; set; }
         public int SipplierID { get; set; }
+        public int MaterialValueID { get; set; }
 
     }
 }
